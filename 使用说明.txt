@@ -1,0 +1,4 @@
+基于肤色的人脸检测
+facer.fig-----gui界面主程序
+mian.m--------主程序
+drawGaussian.m---核心算法
